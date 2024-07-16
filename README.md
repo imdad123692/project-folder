@@ -1,3 +1,3 @@
-# CS Folder
+# cs folder
 this is my first Repo
 
